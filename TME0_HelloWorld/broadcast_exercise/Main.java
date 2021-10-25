@@ -1,7 +1,7 @@
-package carlo;
+package broadcast_exercise;
 import io.jbotsim.core.Topology;
 import io.jbotsim.ui.JViewer;
-import carlo.*;
+import broadcast_exercise.*;
 
 public class Main{
     public static void main(String[] args){

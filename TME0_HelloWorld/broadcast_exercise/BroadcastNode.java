@@ -1,4 +1,4 @@
-package carlo;
+package broadcast_exercise;
 import io.jbotsim.core.Topology;
 import io.jbotsim.ui.JViewer;
 
@@ -25,7 +25,9 @@ public class BroadcastNode extends Node{
         if (! informed) {
             informed = true;
             setColor(Color.RED);
-            sendAll(new Message(message.getContent()));
+	    System.out.println("Received message, my id is: " + this.getID());
+	    Message m = new Message(this.getID());
+            sendAll(m);
         }
     }
 }

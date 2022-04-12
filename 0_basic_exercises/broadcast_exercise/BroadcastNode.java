@@ -1,5 +1,4 @@
-import io.jbotsim.core.Topology;
-import io.jbotsim.ui.JViewer;
+package broadcast_exercise;
 
 import io.jbotsim.core.Node;
 import io.jbotsim.core.Color;

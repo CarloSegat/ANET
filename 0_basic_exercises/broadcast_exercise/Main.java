@@ -1,3 +1,5 @@
+package broadcast_exercise;
+
 import io.jbotsim.core.Topology;
 import io.jbotsim.ui.JViewer;
 

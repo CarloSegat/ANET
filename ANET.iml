@@ -13,6 +13,12 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/3_byz_coloring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scattering" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0_basic_exercises" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1_sink_exercise" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2_byz_coloring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/3_scattering" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />

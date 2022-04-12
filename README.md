@@ -1,9 +1,10 @@
 # ANET exercises
-## How to compile and run
-For example, cd into TME0_HelloWorld/broadcast:exercise
-java -cp ../../lib/jbotsim-standalone-1.2.0.jar:../ broadcast_exercise.Main
-The jbotsim jar has to be passed with the cp argument, also the folder that contains the target file (in this case broadcast_exercise) has to be appended to the class path, otherwise the tool will look for the broadcast_exercise folder inside the broadcast_exercise folder!
+Exercises for the class Autonomous Networks as part of EIT Digital CNI year 2.
+Those programs are simulations of mobile ah-hoc networks using the JBot sim Java library.
 
-To compile run:
+## Run using intellij
+Set the 0_basic_exericise (or 1_sink_exercise, etc) **as Source Root**.
+Then you should just be alble to hit the play button
 
-javac -cp ../../lib/jbotsim-standalone-1.2.0.jar:../ MovingNode.java
+Some exercises need to be started: right click & click start simulation.
+
